@@ -57,9 +57,6 @@ The following SQL scripts are included in this repository:
 Detailed findings from the analysis can be found in this Google Doc: [Customer Segmentation and Marketing Channel Analysis Findings](https://docs.google.com/document/d/16ImrG24aMpcgVLGeHwS2XfUDX0UDvpIDA63MFA6Cdys/edit?usp=sharing)
 
 ## Further Analysis
-
-* Visualize the results using data visualization tools (e.g., Tableau, Power BI).
-* Develop marketing strategies based on the customer segments and channel performance.
 * Implement predictive models to forecast customer behavior and conversion rates.
 * Create dashboards for real-time monitoring of marketing campaigns and customer engagement.
 
