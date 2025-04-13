@@ -53,8 +53,6 @@ Customer Segmentation and Marketing Channel Analysis/
 ├── superstore_orders.csv
 └── README.md
 
-https://docs.google.com/document/d/16ImrG24aMpcgVLGeHwS2XfUDX0UDvpIDA63MFA6Cdys/edit?usp=sharing## Key Findings
-
 Detailed findings from the analysis can be found in this Google Doc: [Customer Segmentation and Marketing Channel Analysis Findings](https://docs.google.com/document/d/16ImrG24aMpcgVLGeHwS2XfUDX0UDvpIDA63MFA6Cdys/edit?usp=sharing)
 
 ## Further Analysis
