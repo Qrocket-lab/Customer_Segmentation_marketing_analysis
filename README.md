@@ -46,12 +46,13 @@ The following SQL scripts are included in this repository:
     * Query the resulting tables to analyze marketing channel performance and customer segments.
 
 ## Project Structure
-Customer Segmentation and Marketing Channel Analysis/
+```Customer Segmentation and Marketing Channel Analysis/
 ├── attribution_analysis.sql
 ├── rfm_analysis.sql
 ├── attribution.csv
 ├── superstore_orders.csv
 └── README.md
+```
 
 Detailed findings from the analysis can be found in this Google Doc: [Customer Segmentation and Marketing Channel Analysis Findings](https://docs.google.com/document/d/16ImrG24aMpcgVLGeHwS2XfUDX0UDvpIDA63MFA6Cdys/edit?usp=sharing)
 
